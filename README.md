@@ -1,16 +1,33 @@
-# pacman
+# Pacman
 
-A new Flutter project.
+A classic Pac-Man game reimagined using Flutter and Dart, developed in Android Studio. This project recreates the iconic arcade experience with engaging gameplay and smooth interactions.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 🎮 **Classic Gameplay:** Replicates the original Pac-Man experience with responsive controls and dynamic enemy behavior.
+- 🕹️ **Interactive Interface:** Designed with Flutter to provide an engaging and immersive game environment.
+- 🚀 **Smooth Performance:** Developed and tested in Android Studio to ensure a seamless gaming experience.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Framework:** Flutter
+- **Language:** Dart
+- **IDE:** Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## About
+
+Pacman is a nostalgic arcade game brought to mobile using modern development tools. It features classic gameplay elements like player movement, enemy AI, and collision detection, offering a fun and interactive experience reminiscent of the original game.
+
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+- **Nandini Sharma**
+- [GitHub Profile](https://github.com/Nandini056)
