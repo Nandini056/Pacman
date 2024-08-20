@@ -14,8 +14,6 @@ A classic Pac-Man game reimagined using Flutter and Dart, developed in Android S
 - **Language:** Dart
 - **IDE:** Android Studio
 
-
-
 ## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
