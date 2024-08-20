@@ -14,9 +14,6 @@ A classic Pac-Man game reimagined using Flutter and Dart, developed in Android S
 - **Language:** Dart
 - **IDE:** Android Studio
 
-## About
-
-Pacman is a nostalgic arcade game brought to mobile using modern development tools. It features classic gameplay elements like player movement, enemy AI, and collision detection, offering a fun and interactive experience reminiscent of the original game.
 
 
 ## Contributing
